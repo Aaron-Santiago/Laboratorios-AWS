@@ -1,2 +1,2 @@
-# Laboratorios-AWS
-Este repositorio es creado con el propósito de documentar las prácticas de laboratorio que llevaré a cabo a lo largo de mi curso AWS
+# ☁️ AWS Cloud Labs - Aarón T. Santiago
+Bienvenid@ a mi repositorio de documentación para laboratorios de AWS. Aquí registro el paso a paso, configuraciones y evidencias de las prácticas que voy realizando en la nube.
