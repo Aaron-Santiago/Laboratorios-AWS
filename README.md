@@ -7,10 +7,8 @@ Bienvenid@ a mi repositorio de documentación para laboratorios de AWS!
   <summary>🗺️ <b>Menú Rápido de Prácticas (Clic para desplegar)</b></summary>
   <br>
   
-  * [🏠 Volver a la página de inicio](../../README.md)
-    
+  * **[🏠 Volver a la página de inicio]**(../../README.md)   
   * **Fundamentos de la nube:** [🟢 Lab 1](../practica-1/README.md)
-    
   * **Linux:** [🟢 Lab 2](../practica-3/README.md) | [🟢 Lab 3](../practica-4/README.md) | [🟢 Lab 4](../practica-4/README.md) | [🟡 Lab 5](../practica-4/README.md) | [🟡 Lab 6](../practica-4/README.md) | [🟡 Lab 7](../practica-4/README.md) | [🟡 Lab 8](../practica-4/README.md) | [🟡 Lab 9](../practica-4/README.md) | [🔴 Lab 10](../practica-4/README.md) | [🔴 Lab 11](../practica-4/README.md) | [🔴 Lab 12](../practica-4/README.md) | [🔴 Lab 13](../practica-4/README.md) | [🔴 Lab 14](../practica-4/README.md) | [🔴 Lab 15](../practica-4/README.md)
     
   * **Redes:** [🔴 Lab 16](../practica-1/README.md) | [🔴 Lab 17](../practica-4/README.md) | [🔴 Lab 18](../practica-4/README.md) | [🔴 Lab 19](../practica-4/README.md) | [🔴 Lab 20](../practica-4/README.md) | [🔴 Lab 21](../practica-4/README.md) | [🔴 Lab 22](../practica-4/README.md)
