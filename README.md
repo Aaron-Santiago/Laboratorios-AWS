@@ -27,11 +27,11 @@ Bienvenid@ a mi repositorio de documentación para laboratorios de AWS!
 
 ---
 
-<h3 style="font-size:; font-weight: bold; margin-top: 28px;">📝 Objetivo</h3>
+<h3 style="font-size: 1.5em; font-weight: bold; margin-top: 24px;">📝 Objetivo</h3>
 
 Documentar y registrar el avance de mis prácticas de laboratorio a lo largo del curso AWS.
 
-## 📈 Estado del Progreso (Labs)
+<h3 style="font-size: 1.5em; font-weight: bold; margin-top: 24px;">📈 Estado del Progreso (Labs)</h3>
 
 * **Módulo 1:** 🟢 Completado
 * **Módulo 2:** 🟡 En progreso...
