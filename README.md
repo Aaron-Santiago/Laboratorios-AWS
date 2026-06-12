@@ -11,14 +11,14 @@ Bienvenid@ a mi repositorio de documentación para laboratorios de AWS!
     <li><b>Fundamentos de la nube:</b> <a href="Laboratorios/Fundamentos_de_la_nube/11-Lab_EC2/Lab_1.md">🟢 Lab 1</a></li>
     <li>
       <b>Linux:</b> 
-      <a href="../practica-3/README.md">🟢 Lab 2</a> | 
-      <a href="../practica-4/README.md">🟢 Lab 3</a> | 
-      <a href="../practica-4/README.md">🟢 Lab 4</a> | 
-      <a href="../practica-4/README.md">🟡 Lab 5</a> | 
-      <a href="../practica-4/README.md">🟡 Lab 6</a> | 
-      <a href="../practica-4/README.md">🟡 Lab 7</a> | 
-      <a href="../practica-4/README.md">🟡 Lab 8</a> | 
-      <a href="../practica-4/README.md">🟡 Lab 9</a> | 
+      <a href="Laboratorios/Linux/225-Una_introducción_a_linux/Lab_2.md">🟢 Lab 2</a> | 
+      <a href="Laboratorios/Linux/227-Línea_de_comandos_de_Linux/Lab_3.md">🟢 Lab 3</a> | 
+      <a href="Laboratorios/Linux/229-Usuarios_y_grupos_de_Linux/Lab_4.md">🟢 Lab 4</a> | 
+      <a href="Laboratorios/Linux/231-Edición_de_archivos/Lab_5.md">🟡 Lab 5</a> | 
+      <a href="Laboratorios/Linux/233-Trabajo_con_el_sistema_de_archivos/Lab_6.md">🟡 Lab 6</a> | 
+      <a href="Laboratorios/Linux/235-Trabajo_con_archivos/Lab_7.md">🟡 Lab 7</a> | 
+      <a href="Laboratorios/Linux/237-Administración_de_permisos_de_archivos/Lab_8.md">🟡 Lab 8</a> | 
+      <a href="Laboratorios/Linux/239-Administración_de_procesos/Lab_9.md">🟡 Lab 9</a> | 
       <a href="../practica-4/README.md">🔴 Lab 10</a> | 
       <a href="../practica-4/README.md">🔴 Lab 11</a> | 
       <a href="../practica-4/README.md">🔴 Lab 12</a> | 
