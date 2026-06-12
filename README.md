@@ -7,7 +7,7 @@ Bienvenid@ a mi repositorio de documentación para laboratorios de AWS!
   <summary>🗺️ <b>Menú Rápido de Prácticas (Clic para desplegar)</b></summary>
   <br>
   <ul>
-    <li><a href="../../README.md">🏠 Volver a la página de inicio</a></li>
+    <li><a href=README.md>🏠 Volver a la página de inicio</a></li>
     <li><b>Fundamentos de la nube:</b> <a href="../practica-1/README.md">🟢 Lab 1</a></li>
     <li>
       <b>Linux:</b> 
