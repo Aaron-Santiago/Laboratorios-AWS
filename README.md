@@ -6,23 +6,106 @@ Bienvenid@ a mi repositorio de documentación para laboratorios de AWS!
 <details>
   <summary>🗺️ <b>Menú Rápido de Prácticas (Clic para desplegar)</b></summary>
   <br>
-  
-  * [🏠 Volver a la página de inicio](../../README.md)
-  * **Fundamentos de la nube:** [🟢 Lab 1](../practica-1/README.md)
-  * **Linux:** [🟢 Lab 2](../practica-3/README.md) | [🟢 Lab 3](../practica-4/README.md) | [🟢 Lab 4](../practica-4/README.md) | [🟡 Lab 5](../practica-4/README.md) | [🟡 Lab 6](../practica-4/README.md) | [🟡 Lab 7](../practica-4/README.md) | [🟡 Lab 8](../practica-4/README.md) | [🟡 Lab 9](../practica-4/README.md) | [🔴 Lab 10](../practica-4/README.md) | [🔴 Lab 11](../practica-4/README.md) | [🔴 Lab 12](../practica-4/README.md) | [🔴 Lab 13](../practica-4/README.md) | [🔴 Lab 14](../practica-4/README.md) | [🔴 Lab 15](../practica-4/README.md)
-  * **Redes:** [🔴 Lab 16](../practica-1/README.md) | [🔴 Lab 17](../practica-4/README.md) | [🔴 Lab 18](../practica-4/README.md) | [🔴 Lab 19](../practica-4/README.md) | [🔴 Lab 20](../practica-4/README.md) | [🔴 Lab 21](../practica-4/README.md) | [🔴 Lab 22](../practica-4/README.md)
-  * **Seguridad:** [🔴 Lab 23](../practica-1/README.md) | [🔴 Lab 24](../practica-4/README.md) | [🔴 Lab 25](../practica-4/README.md) | [🔴 Lab 26](../practica-4/README.md) | [🔴 Lab 27](../practica-4/README.md)
-  * **Bases de datos:** [🔴 Lab 28](../practica-1/README.md) | [🔴 Lab 29](../practica-4/README.md) | [🔴 Lab 30](../practica-4/README.md) | [🔴 Lab 31](../practica-4/README.md) | [🔴 Lab 32](../practica-4/README.md) | [🔴 Lab 33](../practica-4/README.md) | [🔴 Lab 34](../practica-4/README.md) | [🔴 Lab 35](../practica-4/README.md) | [🔴 Lab 36](../practica-4/README.md) | [🔴 Lab 37](../practica-4/README.md)
-  * **Herramientas de automatización:** [🔴 Lab 38](../practica-1/README.md)
-  * **Servidores:** [🔴 Lab 39](../practica-1/README.md) | [🔴 Lab 40](../practica-4/README.md) | [🔴 Lab 41](../practica-4/README.md) | [🔴 Lab 42](../practica-4/README.md)
-  * **Escalado y resolución de nombres:** [🔴 Lab 43](../practica-1/README.md) | [🔴 Lab 44](../practica-4/README.md) | [🔴 Lab 45](../practica-4/README.md)
-  * **Serverless and Containers:** [🔴 Lab 46](../practica-1/README.md) | [🔴 Lab 47](../practica-4/README.md)
-  * **Servicios de bases de datos de AWS:** [🔴 Lab 48](../practica-1/README.md)
-  * **Servicios de redes de AWS:** [🔴 Lab 49](../practica-1/README.md) | [🔴 Lab 50](../practica-4/README.md)
-  * **Almacenamiento y archivado:** [🔴 Lab 51](../practica-1/README.md) | [🔴 Lab 52](../practica-4/README.md) | [🔴 Lab 53](../practica-4/README.md) | [🔴 Lab 54](../practica-4/README.md)
-  * **Monitoreo y Seguridad:** [🔴 Lab 55](../practica-1/README.md) | [🔴 Lab 56](../practica-4/README.md)
-  * **Administración del Consumo de recursos:** [🔴 Lab 57](../practica-1/README.md) | [🔴 Lab 58](../practica-4/README.md)
-  * **Implementación automática y repetible:** [🔴 Lab 59](../practica-1/README.md) | [🔴 Lab 60](../practica-4/README.md) | [🔴 Lab 61](../practica-4/README.md)
+  <ul>
+    <li><a href="../../README.md">🏠 Volver a la página de inicio</a></li>
+    <li><b>Fundamentos de la nube:</b> <a href="../practica-1/README.md">🟢 Lab 1</a></li>
+    <li>
+      <b>Linux:</b> 
+      <a href="../practica-3/README.md">🟢 Lab 2</a> | 
+      <a href="../practica-4/README.md">🟢 Lab 3</a> | 
+      <a href="../practica-4/README.md">🟢 Lab 4</a> | 
+      <a href="../practica-4/README.md">🟡 Lab 5</a> | 
+      <a href="../practica-4/README.md">🟡 Lab 6</a> | 
+      <a href="../practica-4/README.md">🟡 Lab 7</a> | 
+      <a href="../practica-4/README.md">🟡 Lab 8</a> | 
+      <a href="../practica-4/README.md">🟡 Lab 9</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 10</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 11</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 12</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 13</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 14</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 15</a>
+    </li>
+    <li>
+      <b>Redes:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 16</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 17</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 18</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 19</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 20</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 21</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 22</a>
+    </li>
+    <li>
+      <b>Seguridad:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 23</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 24</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 25</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 26</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 27</a>
+    </li>
+    <li>
+      <b>Bases de datos:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 28</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 29</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 30</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 31</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 32</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 33</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 34</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 35</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 36</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 37</a>
+    </li>
+    <li><b>Herramientas de automatización:</b> <a href="../practica-1/README.md">🔴 Lab 38</a></li>
+    <li>
+      <b>Servidores:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 39</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 40</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 41</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 42</a>
+    </li>
+    <li>
+      <b>Escalado y resolución de nombres:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 43</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 44</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 45</a>
+    </li>
+    <li>
+      <b>Serverless and Containers:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 46</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 47</a>
+    </li>
+    <li><b>Servicios de bases de datos de AWS:</b> <a href="../practica-1/README.md">🔴 Lab 48</a></li>
+    <li>
+      <b>Servicios de redes de AWS:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 49</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 50</a>
+    </li>
+    <li>
+      <b>Almacenamiento y archivado:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 51</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 52</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 53</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 54</a>
+    </li>
+    <li>
+      <b>Monitoreo y Seguridad:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 55</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 56</a>
+    </li>
+    <li>
+      <b>Administración del Consumo de recursos:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 57</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 58</a>
+    </li>
+    <li>
+      <b>Implementación automática y repetible:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 59</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 60</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 61</a>
+    </li>
+  </ul>
 </details>
 
 ---
