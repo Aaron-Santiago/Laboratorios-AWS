@@ -16,17 +16,22 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Fondos y diseño general */
 body, .content {
   background-color: var(--bg-dark) !important; 
 }
 
-/* Ocultar por completo la estructura de la barra lateral desde el CSS */
 .sidebar, .sidebar-toggle {
   display: none !important;
 }
 
-/* Títulos y Subtítulos */
+/* Estilo para títulos HTML personalizados */
+.custom-title {
+  color: #D19B00 !important;            
+  font-weight: 800 !important;
+  font-size: 1.5em;
+  margin-top: 24px;
+}
+
 .markdown-section h1, 
 .markdown-section h1 span, 
 #main h1 {
@@ -43,27 +48,17 @@ body, .content {
   font-weight: 800 !important;
 }
 
-/* Bloques de texto y Componentes compartidos */
-code, .badge-pink {
+code {
   display: inline-block;
   font-size: 12px !important;                
   font-weight: 500 !important;                
   color: var(--accent-pink) !important;       
-  background-color: rgba(244, 114, 182, 0.1) !important; 
+  background-color: var(--bg-card) !important; 
   border: 1px solid rgba(244, 114, 182, 0.15) !important;
   padding: 4px 12px !important;              
   border-radius: 12px !important;            
   font-family: Arial, sans-serif !important;
   letter-spacing: 0.2px !important;
-}
-
-code {
-  background-color: var(--bg-card) !important; 
-}
-
-.badge-pink {
-  margin-left: 8px;                                     
-  vertical-align: middle;                                     
 }
 
 pre {
@@ -81,7 +76,6 @@ blockquote {
   border-radius: 0 6px 6px 0;
 }
 
-/* Elementos divisores y Enlaces */
 .content hr {
   border: none;
   background: var(--border-color) !important;      
@@ -105,10 +99,6 @@ blockquote {
   text-decoration: underline;
 }
 
-/* REGLAS CRÍTICAS: 
-   Elimina el margen izquierdo que Docsify reserva para el menú 
-   y centra tu README con el índice que ya creaste.
-*/
 .content {
   left: 0 !important;
   position: absolute !important;
@@ -120,7 +110,7 @@ blockquote {
 .markdown-section {
   display: block;      
   margin: 40px auto !important;    
-  max-width: 80% !important; /* Ancho ideal para leer cómodamente en pantallas grandes */
+  max-width: 80% !important; 
   height: auto;         
   border-radius: 8px;   
 }
