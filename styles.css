@@ -1,7 +1,7 @@
 /* Variables globales y configuración base */
 :root {
-  --theme-color: #2dd4bf;      /* Turquesa */
-  --accent-pink: #FFBF00;      /* Rosa pastel */
+  --theme-color: #000000;      /* negro solido */
+  --accent-pink: #FFBF00;      /* ambar */
   --grey-color: #f1f5f9;       /* Blanco medio */
   --body-text: #E4E4E7;        /* Gris medio */
   --font-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
