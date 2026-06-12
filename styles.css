@@ -5,7 +5,7 @@
   --grey-color: #f1f5f9;       /* Blanco medio */
   --body-text: #E4E4E7;        /* Gris medio */
   --font-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --bg-dark: #0f172a;
+  --bg-dark: #000000;
   --bg-card: #1e293b;
   --border-color: #243249;
 }
