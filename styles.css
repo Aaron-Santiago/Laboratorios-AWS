@@ -68,26 +68,3 @@ blockquote {
   border-radius: 0 6px 6px 0;
 }
 
-/* Elementos divisores y Enlaces */
-.content hr {
-  border: none;
-  background: var(--border-color) !important;      
-  height: 1px;
-  margin: 2em 0;
-}
-
-.markdown-section h1 a, 
-.markdown-section h2 a, 
-.markdown-section h3 a,
-.markdown-section a:not(h1):not(h2):not(h3) {
-  text-decoration: none;
-}
-
-.markdown-section a:not(h1):not(h2):not(h3) {
-  color: var(--theme-color) !important; 
-  font-weight: 500;
-}
-
-.markdown-section a:not(h1):not(h2):not(h3):hover {
-  text-decoration: underline;
-}
