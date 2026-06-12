@@ -1,5 +1,5 @@
 # 📖 11 - Lab EC2
-Aarón T. Santiago
+<h3 class="custom-title"> Aarón T. Santisgo</h3>
 
 ---
 
