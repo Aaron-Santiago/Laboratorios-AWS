@@ -1,3 +1,145 @@
 # 📖 11 - Lab EC2
+Aarón T. Santiago
 
-## Paso 1: Configuración
+---
+
+<details>
+  <summary>🗺️ <b>Menú Rápido de Prácticas (Clic para desplegar)</b></summary>
+  <br>
+  <ul>
+    <li><a href="README.md">🏠 Volver a la página de inicio</a></li>
+    <li><b>Fundamentos de la nube:</b> <a href="Laboratorios/Fundamentos_de_la_nube/11-Lab_EC2/Lab_1.md">🟢 Lab 1</a></li>
+    <li>
+      <b>Linux:</b> 
+      <a href="Laboratorios/Linux/225-Una_introducción_a_linux/Lab_2.md">🟢 Lab 2</a> | 
+      <a href="Laboratorios/Linux/227-Línea_de_comandos_de_Linux/Lab_3.md">🟢 Lab 3</a> | 
+      <a href="Laboratorios/Linux/229-Usuarios_y_grupos_de_Linux/Lab_4.md">🟢 Lab 4</a> | 
+      <a href="Laboratorios/Linux/231-Edición_de_archivos/Lab_5.md">🟡 Lab 5</a> | 
+      <a href="Laboratorios/Linux/233-Trabajo_con_el_sistema_de_archivos/Lab_6.md">🟡 Lab 6</a> | 
+      <a href="Laboratorios/Linux/235-Trabajo_con_archivos/Lab_7.md">🟡 Lab 7</a> | 
+      <a href="Laboratorios/Linux/237-Administración_de_permisos_de_archivos/Lab_8.md">🟡 Lab 8</a> | 
+      <a href="Laboratorios/Linux/239-Administración_de_procesos/Lab_9.md">🟡 Lab 9</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 10</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 11</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 12</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 13</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 14</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 15</a>
+    </li>
+    <li>
+      <b>Redes:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 16</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 17</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 18</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 19</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 20</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 21</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 22</a>
+    </li>
+    <li>
+      <b>Seguridad:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 23</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 24</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 25</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 26</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 27</a>
+    </li>
+    <li>
+      <b>Bases de datos:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 28</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 29</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 30</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 31</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 32</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 33</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 34</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 35</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 36</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 37</a>
+    </li>
+    <li><b>Herramientas de automatización:</b> <a href="../practica-1/README.md">🔴 Lab 38</a></li>
+    <li>
+      <b>Servidores:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 39</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 40</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 41</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 42</a>
+    </li>
+    <li>
+      <b>Escalado y resolución de nombres:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 43</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 44</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 45</a>
+    </li>
+    <li>
+      <b>Serverless and Containers:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 46</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 47</a>
+    </li>
+    <li><b>Servicios de bases de datos de AWS:</b> <a href="../practica-1/README.md">🔴 Lab 48</a></li>
+    <li>
+      <b>Servicios de redes de AWS:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 49</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 50</a>
+    </li>
+    <li>
+      <b>Almacenamiento y archivado:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 51</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 52</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 53</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 54</a>
+    </li>
+    <li>
+      <b>Monitoreo y Seguridad:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 55</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 56</a>
+    </li>
+    <li>
+      <b>Administración del Consumo de recursos:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 57</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 58</a>
+    </li>
+    <li>
+      <b>Implementación automática y repetible:</b> 
+      <a href="../practica-1/README.md">🔴 Lab 59</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 60</a> | 
+      <a href="../practica-4/README.md">🔴 Lab 61</a>
+    </li>
+  </ul>
+</details>
+
+---
+
+### Tarea 1: Lanzar instancia EC2
+Paso 1: escoger AMI y tipo de instancia
+
+Paso 2: configurar par de llaves, la red y agregar almacenamiento
+
+Paso 3: configuración avanzada
+
+Paso 4: lanzar la instancia EC2
+
+
+### Tarea 2: Monitorear la instancia
+Paso 1: revisar que pase las pruebas de accesibilidad de sistema e instancia
+
+Paso 2: tomar captura de la instancia
+
+
+### Tarea 3: actualizar el grupo de seguridad y acceder al servidor web
+
+
+### Tarea 4: Redimensionar la instancia
+Paso 1: detener la instancia
+
+Paso 2: cambiar el tipo de instancia
+
+Paso 3: redimensionar el volumen EBS
+
+Paso 4: arrancar la instancia redimensionada
+
+
+### Tarea 5: Detener la instancia
+Paso 1: detener la instancia (no se va a poder)
+
+Paso 2: cambiar la protección de terminación e intentar detener la instancia nuevamente
